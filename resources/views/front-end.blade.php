@@ -50,7 +50,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="block">
-                        @include('partials.nav')
+                        @include('restaurant.nav')
 					</div>
 				</div><!-- .col-md-12 close -->
 			</div><!-- .row close -->
@@ -67,7 +67,7 @@
 						<div class="title">
 							<h3>Featured <span>Works</span></h3>
 						</div>
-                        @include('partials.feature-work')
+                        @include('restaurant.feature-work')
 
 					</div>
 				</div><!-- .col-md-12 close -->
